@@ -1,0 +1,2 @@
+# jk
+Kode Aneh
